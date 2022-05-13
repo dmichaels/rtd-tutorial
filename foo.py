@@ -1,5 +1,5 @@
 """
-Lumache - Python library for FOO lovers (i.e. testing).
+Foo - Python library for FOO lovers (i.e. testing).
 """
 
 __version__ = "0.1.0"
