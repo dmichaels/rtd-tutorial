@@ -2,13 +2,9 @@ version: 2
 
 python:
   version: 3.7
-  #
   # Install our python package before building the docs
-  # Doing this tutorial BTW:
-  # https://docs.readthedocs.io/en/stable/tutorial/
-  #
   install:
-    - method: pip
+    method: pip
 
 sphinx:
   fail_on_warning: true
