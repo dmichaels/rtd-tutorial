@@ -15,6 +15,10 @@ To use Lumache, first install it using pip:
 Creating recipes
 ----------------
 
+Here is doc for the new test foo functionality ``foo.get_foo`()`:
+
+.. autofunction:: foo.get_foo
+
 To retrieve a list of random ingredients,
 you can use the ``lumache.get_random_ingredients()`` function:
 
