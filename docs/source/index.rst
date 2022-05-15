@@ -12,7 +12,7 @@ how to :ref:`installation` the project.
 
 See :ref:`label to section <anotherlabel>` too.
 Or this one :ref:`anotherlabel` also.
-And this to embedded text :ref:`text to link to` also.
+And this to embedded text :ref:`text to link to <text to link to>` also.
 
 .. note::
 
