@@ -2,7 +2,7 @@
 Foo - Python library for FOO lovers (i.e. testing).
 """
 
-def get_foo(kind=None):
+def foo(kind=None):
     """
     Return a list of FOO.
 
