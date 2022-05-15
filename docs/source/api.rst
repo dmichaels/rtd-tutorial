@@ -5,3 +5,6 @@ API
    :toctree: generated
 
    lumachex
+
+.. automodule:: foo
+   :members:
