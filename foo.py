@@ -2,9 +2,6 @@
 Foo - Python library for FOO lovers (i.e. testing).
 """
 
-__version__ = "0.1.0"
-
-
 def get_foo(kind=None):
     """
     Return a list of FOO.
