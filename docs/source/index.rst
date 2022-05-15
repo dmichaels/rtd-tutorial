@@ -11,7 +11,7 @@ Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 See :ref:`label to section <anotherlabel>` too.
-Or this one `anotherlabel`_ also.
+Or this one :ref:`anotherlabel` also.
 
 .. note::
 
