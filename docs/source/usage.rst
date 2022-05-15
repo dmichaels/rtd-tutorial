@@ -37,4 +37,5 @@ For example:
 Another Section
 ---------------
 
-another section with stuff and some text to _`text to link to` just previous.
+Another section with stuff and some text to _`text to link to` just previous.
+And check out this link to `text to link to`_ above also.

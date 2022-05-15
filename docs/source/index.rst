@@ -12,7 +12,6 @@ how to :ref:`installation` the project.
 
 See :ref:`label to section <anotherlabel>` too.
 Or this one `anotherlabel`_ also.
-And check out this link to `text to link to`_ also.
 
 .. note::
 
