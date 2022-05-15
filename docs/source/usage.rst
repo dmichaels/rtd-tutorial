@@ -35,6 +35,5 @@ For example:
 .. _anotherlabel:
 
 Another Section
----------------
 
 another section
