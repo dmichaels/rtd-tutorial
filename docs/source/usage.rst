@@ -4,6 +4,7 @@ Usage
 
 Installation
 ------------
+.. _installation:
 
 To use Lumache, first install it using pip:
 
