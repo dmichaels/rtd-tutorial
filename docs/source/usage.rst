@@ -43,4 +43,6 @@ And check another way this link to :ref:`text for link to text in this file <tex
 
 And use the FOO module for other things ...
 
-.. .. autofunction:: foo.some_foo_function
+.. autofunction:: foo.some_foo_function
+
+and another ref to :py:func:`foo.some_foo_function` here.
