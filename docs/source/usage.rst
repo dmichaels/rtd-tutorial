@@ -41,8 +41,4 @@ Another section with stuff and some text to _`text to link to` just previous.
 And check out this link to `text to link to`_ above also.
 And check another way this link to :ref:`text for link to text in this file <text to link to>` above also.
 
-And use the FOO module for other things ...
-
-.. autofunction:: foo.some_foo_function
-
-and another ref to :py:func:`foo.some_foo_function` here.
+Here is a reference to :py:func:`foo.some_foo_function` here.
